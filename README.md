@@ -1,1 +1,1 @@
-# humhub-app
+# HumHub TWA Application
